@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.715,D:\NovemderFTDI\x86\PCOMM.LIB=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.931,=D:\NovemderFTDI\x86\PCOMM.LIB</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,C:\Users\HelenaPopova\Documents\RAD Studio\Projects\Unit1.h=D:\NovemderFTDI\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.297,D:\FTDI_link -last ver des\Project1.cbproj=D:\FTDI_link -last ver des\FTDI - LINK.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.141,=D:\NovemderFTDI\x64\PCOMM.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.069,=D:\NovemderFTDI\x64\PCOMM.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,C:\Users\HelenaPopova\Documents\RAD Studio\Projects\Unit1.dfm=D:\NovemderFTDI\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.922,D:\NovemderFTDI\x64\PCOMM.lib=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.399,=C:\Program Files\Moxa\PCommLite 1.6\Include\PCOMM.H</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.344,C:\Program Files\Moxa\PCommLite 1.6\Include\PCOMM.H=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.688,=D:\FTDI_link -last ver des\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.309,C:\Users\HelenaPopova\Documents\RAD Studio\Projects\Project1.cbproj=D:\NovemderFTDI\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,=C:\Users\HelenaPopova\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.042,=D:\NovemderFTDI\x86\pcommb.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,C:\Users\HelenaPopova\Documents\RAD Studio\Projects\Unit1.cpp=D:\NovemderFTDI\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.382,=C:\Users\HelenaPopova\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
